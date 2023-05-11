@@ -1,0 +1,35 @@
+links
+Angular Flex
+https://www.npmjs.com/package/@angular/flex-layout
+
+Quicktype
+https://quicktype.io/
+
+
+Trabar de manera modular
+*Es mas facil para trabajar en equipo
+*mas facil expandir
+*facil para trabajar con el lazyLoad y carga perezosa
+
+El modulo material
+*contiene todos los modulos que viene de Angular material
+*vamos a centralizar todas las importaciones
+
+Modulo auth
+*contiene todo de autenticación
+*modulos de rutas
+
+Modulo heroe 
+*contiene toda la aplicacion de heroe
+*modulos de rutas
+
+Modulo shared
+*contiene la pagina de error
+*modulos de rutas
+
+rutas padre
+*son las que estan en el app.componet
+
+
+Rutas hijas y carga perezosa
+*solo de debe tener un forRoot que es el que contiene las rutas padres
